@@ -13,3 +13,8 @@
 ### Front-end
 - [ ] Desktop version
 - [ ] Mobile  version
+
+### Tutorials
+* About [webpack](https://github.com/swimly/webpack-starter)
+
+
